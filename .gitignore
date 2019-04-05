@@ -1,0 +1,18 @@
+## Angular ##
+# compiled output
+/dist
+/tmp
+/app/**/*.js
+/app/**/*.js.map
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.idea/*
+.vscode/*
+
+# File-based project format
+*.iws
+*.iml
